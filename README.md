@@ -8,3 +8,6 @@ The content of the research includes research references to brokerage industry r
 
 You can get it from 
 [Google drive](https://drive.google.com/file/d/1uObMd_t_LLKJloBLLhcxuq4I5PzncK6P/view?usp=drive_link)
+此调研可以让你对具身领域主流组和主流方法有大概了解，在开始工作前不妨花时间对这个领域的风光先看一眼再深入一条路径研究。
+详细方法可以看Tianxing Chen的整理，非常的有用
+[Tianxing_Chen]([https://drive.google.com/file/d/1uObMd_t_LLKJloBLLhcxuq4I5PzncK6P/view?usp=drive_link](https://github.com/TianxingChen/Embodied-AI-Guide))
